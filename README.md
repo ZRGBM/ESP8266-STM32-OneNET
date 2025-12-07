@@ -59,6 +59,15 @@
 3.  **编译下载**：使用 Keil 打开 `Projek.uvprojx`，编译无误后通过 ST-Link 下载到单片机。
 4.  **运行**：上电后，OLED 应显示初始化界面。等待 ESP8266 连接网络成功后，即可在 APP 端查看数据或控制舵机。
 
+## 感谢阅读
+联系方式 (Contact)
+如果您在使用或理解本项目代码时遇到任何问题，欢迎通过邮件联系我：
+Email: zheegbm@163.com
+
+贡献与反馈 (Contribution)
+欢迎提交 Issue 或 Pull Request 来改进代码！
+下面是目录结构
+
 ## 目录结构 (Directory Structure)
 
 ```text
@@ -70,10 +79,3 @@
 ├── Library/        # STM32 标准外设库文件
 ├── Start/          # 启动文件与内核文件
 └── ...
-感谢阅读！
-联系方式 (Contact)
-如果您在使用或理解本项目代码时遇到任何问题，欢迎通过邮件联系我：
-Email: zheegbm@163.com
-
-贡献与反馈 (Contribution)
-欢迎提交 Issue 或 Pull Request 来改进代码！
