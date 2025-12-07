@@ -60,13 +60,12 @@
 4.  **运行**：上电后，OLED 应显示初始化界面。等待 ESP8266 连接网络成功后，即可在 APP 端查看数据或控制舵机。
 
 ## 感谢阅读
-联系方式 (Contact)
-如果您在使用或理解本项目代码时遇到任何问题，欢迎通过邮件联系我：
-Email: zheegbm@163.com
-
-贡献与反馈 (Contribution)
-欢迎提交 Issue 或 Pull Request 来改进代码！
-下面是目录结构
+1.  **联系方式 (Contact)**：
+    * 如果您在使用或理解本项目代码时遇到任何问题，欢迎通过邮件联系我
+    * Email: zheegbm@163.com
+2.  **贡献与反馈 (Contribution)**：
+    * 欢迎提交 Issue 或 Pull Request 来改进代码！
+    * 下面是目录结构
 
 ## 目录结构 (Directory Structure)
 
